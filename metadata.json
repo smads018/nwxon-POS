@@ -1,0 +1,7 @@
+{
+  "name": "Nexus POS Pro",
+  "description": "A production-grade, multi-category offline-first POS system with bilingual support, kitchen management, and automated driver assignment.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
